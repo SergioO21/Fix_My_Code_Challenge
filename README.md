@@ -14,7 +14,8 @@
 
 I not recode everything, I just fix it!
 
-This repository [0x00-Fix_My_Code_Challenge](https://intranet.hbtn.io/rltoken/V1o_qyMWRS-uCTQX1t5VrQ "0x00-Fix_My_Code_Challenge") has the code base to fix in the [0x00-challenge](https://github.com/SergioO21/Fix_My_Code_Challenge/tree/main/0x00-challenge) folder.
+- [0x00-Fix_My_Code_Challenge](https://intranet.hbtn.io/rltoken/V1o_qyMWRS-uCTQX1t5VrQ) has the code base to fix in the [0x00-challenge](https://github.com/SergioO21/Fix_My_Code_Challenge/tree/main/0x00-challenge) folder.
+- [0x01-Fix_My_Code_Challenge](https://intranet.hbtn.io/rltoken/GwKtCLAK11Qojiw7F1RRFA) has the code base to fix in the [0x01-challenge](https://github.com/SergioO21/Fix_My_Code_Challenge/tree/main/0x01-challenge) folder.
 
 
 <h2>Author</h2>
