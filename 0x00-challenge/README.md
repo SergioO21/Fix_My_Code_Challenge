@@ -1,12 +1,3 @@
-<h1> FIX MY CODE</h1>
-
-<b>Fix my code</b> is a new type of project, in which I will jump to an existing code base and fix it.
-
-I not recode everything, I just fix it!
-
-This repository [0x00-Fix_My_Code_Challenge](https://intranet.hbtn.io/rltoken/V1o_qyMWRS-uCTQX1t5VrQ "0x00-Fix_My_Code_Challenge") has the code base to fix.
-
-
 <h2>FizzBuzz - Python</h2>
 <p>Something is going wrong ...</p>
 
