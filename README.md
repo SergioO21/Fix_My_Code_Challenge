@@ -3,7 +3,7 @@
   <img align="right" src="https://i.pinimg.com/originals/b0/45/5b/b0455b3b8446ce5c3acbd03f7c28bcfe.gif" width="300" height="250"/>
 </a>
 <a href="https://www.holbertonschool.com/">
-  <img align="center" src="https://www.holbertonschool.com/holberton-logo.png"/>
+  <img align="center" src="https://github.com/SergioO21/holbertonschool-low_level_programming/blob/main/holberton-logo.png?raw=true"/>
 </a>
 </div>
 
